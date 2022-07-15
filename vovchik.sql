@@ -1,1 +1,1 @@
-select * from vovchik
+select * from vovchikfd
